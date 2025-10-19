@@ -1,7 +1,33 @@
 .App {
+  background-color: #5bbfe6;
+  padding: 30px;
+  margin: 40px auto;
+  border-radius: 12px;
+  box-shadow: 0 4px 10px rgba(177, 89, 89, 0.1);
   text-align: center;
+  font-family: 'Poppins', sans-serif;
 }
 
+.App h1 {
+  color: #ede5e5;
+  font-size: 1.6rem;
+  margin-bottom: 10px;
+}
+
+.App h2 {
+  color: #555bb5;
+  font-size: 1.3rem;
+  margin-bottom: 8px;
+}
+
+.App h3 {
+  color: #827c46;
+  font-size: 1.1rem;
+}
+
+
+
+/* 
 .App-logo {
   height: 40vmin;
   pointer-events: none;
@@ -35,4 +61,4 @@
   to {
     transform: rotate(360deg);
   }
-}
+} */
